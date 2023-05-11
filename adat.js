@@ -1,22 +1,42 @@
 export const adatLista = [
     {
-        termekNev : "asdad",
-        termekAr : 500
+        termekNev : "Kirakós kishordó",
+        termekAr : 3500
     },
     {
-        termekNev : "asdad",
-        termekAr : 500
+        termekNev : "Bigyó",
+        termekAr : 150
     },
     {
-        termekNev : "asdad",
-        termekAr : 500
+        termekNev : "Plüsskutya",
+        termekAr : 1500
     },
     {
-        termekNev : "asdad",
-        termekAr : 500
+        termekNev : "Bugócsiga",
+        termekAr : 2409
     },
     {
-        termekNev : "asdad",
-        termekAr : 500
+        termekNev : "Robotgyík",
+        termekAr : 49900
+    },
+    {
+        termekNev : "Kirakós kishordó",
+        termekAr : 3500
+    },
+    {
+        termekNev : "Bigyó",
+        termekAr : 150
+    },
+    {
+        termekNev : "Plüsskutya",
+        termekAr : 1500
+    },
+    {
+        termekNev : "Bugócsiga",
+        termekAr : 2409
+    },
+    {
+        termekNev : "Robotgyík",
+        termekAr : 49900
     }
 ]

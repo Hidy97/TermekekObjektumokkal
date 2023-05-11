@@ -1,0 +1,26 @@
+*{
+    margin: auto;
+    text-align: center;
+    color: rgb(217, 180, 252);
+    background-color: rgb(3, 3, 34);
+}
+
+button{
+    background-color: rgb(3, 3, 34);
+    border: 0.5px dashed rgb(217, 180, 252);
+}
+
+button:hover{
+    background-color: rgba(217, 180, 252, 0.788);
+    color: rgb(3, 3, 34);
+}
+
+article{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 5%;
+}
+
+article div{
+    padding: 10%;
+}
